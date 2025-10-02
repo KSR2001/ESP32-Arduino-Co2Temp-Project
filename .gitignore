@@ -1,0 +1,27 @@
+# Arduino build files
+*.elf
+*.bin
+*.hex
+*.eep
+*.map
+*.lst
+
+# Object files and dependencies
+*.o
+*.d
+
+# Backup and temporary files
+*~
+*.swp
+*.tmp
+
+# MacOS metadata
+.DS_Store
+
+# Windows metadata
+Thumbs.db
+desktop.ini
+
+# VSCode/Arduino IDE configs (optional)
+.vscode/
+.idea/
