@@ -16,9 +16,9 @@ This project uses an ESP32 with Arduino to measure **CO2 concentration** and **t
 - Wires
 - 3D printed cases, Screws
 
-![Alt text](SenseBox Pictures/sensebox_pic.jpg)
+![Alt text]("SenseBox Pictures/sensebox_pic.jpg")
 
-![Wiring Diagram](SenseBox Pictures\Sensebox_inside pic.jpg)
+![Wiring Diagram]("SenseBox Pictures\Sensebox_inside pic.jpg")
 
 ## How to Upload
 1. Open the `.ino` file in Arduino IDE
