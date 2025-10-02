@@ -18,9 +18,9 @@ This project uses an ESP32 with Arduino to measure **CO2 concentration** and **t
 
 ## Pictures
 
-<img src="senseBox_Pictures/sensebox_pic.jpg" alt="SenseBox Overview" width="400"/>
+<img src="SenseBox_Pictures/sensebox_pic.jpg" alt="SenseBox Overview" width="400"/>
 
-<img src="SenseBox_Pictures/sensebox_inside_pic.jpg" alt="Wiring Diagram" width="400"/>
+<img src="SenseBox_Pictures/Sensebox_inside_pic.jpg" alt="Wiring Diagram" width="400"/>
 
 ## How to Upload
 1. Open the `.ino` file in Arduino IDE
