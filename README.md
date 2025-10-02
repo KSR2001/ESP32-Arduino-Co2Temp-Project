@@ -8,13 +8,17 @@ This project uses an ESP32 with Arduino to measure **CO2 concentration** and **t
 - Sends/prints data via Serial/other interface
 
 ## Hardware
-- ESP32
-- [Your CO2 Sensor model]
-- [Temperature Sensor model]
+- ESP32 SenseBoxMCU
+- Co2 Sensor - Sensirion SCD30 
+- Temperature sensor -  HDC1080
+- OLED Display - ssd1306 
+- LED Matrix
+- Wires
+- 3D printed cases, Screws
 
 ## How to Upload
 1. Open the `.ino` file in Arduino IDE
-2. Select the correct ESP32 board from *Tools > Board*
+2. Select the correct ESP32 board from *Tools > Board* and give authentication details for the WiFi.
 3. Upload to your ESP32
 
 ## License
